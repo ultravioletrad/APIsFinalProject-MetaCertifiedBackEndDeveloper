@@ -1,1 +1,1 @@
-# repo-exercise
+A fully functioning API project for the Little Lemon restaurant so that the client application developers can use the APIs to develop web and mobile applications. People with different roles will be able to browse, add and edit menu items, place orders, browse orders, assign delivery crew to orders and finally deliver the orders. Single Django app called LittleLemonAPI implements all API endpoints in it. Used pipenv to manage the dependencies in the virtual environment. Created a Django Project using pipenv,with DRF and Djoser
